@@ -1,0 +1,3 @@
+'''
+cheking access rights
+'''
